@@ -3,6 +3,9 @@
 
 EduProof is a simple **Solidity smart contract** that allows educational institutions to **store and verify student certificates on the blockchain**.  
 It ensures **authenticity**, **transparency**, and **tamper-proof storage** of academic records.  
+<p align="center">
+  <img src="./Screenshot 2025-10-29 135253.png" alt="EduProof Demo" width="600"/>
+</p>
 
 ---
 
